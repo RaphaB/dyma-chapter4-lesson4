@@ -1,9 +1,9 @@
-puts "Module Math"
-puts Math::PI
-puts Math.sqrt(4)
+# Module Math
+Math::PI
+Math.sqrt(4)
 
-puts "\nGénération aléatoire"
-puts rand
-puts rand(3)
-puts rand(3.5)
-puts rand(5..10)
+# Génération aléatoire
+rand
+rand(3)
+rand(3.5)
+rand(5..10)
